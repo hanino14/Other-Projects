@@ -1,0 +1,40 @@
+The precision and recall values of my ANN (a perfect run when I ran my ANN again) :
+
+Precision of my classification for Iris-setosa 1.0
+
+Precision of my classification for Iris-versicolor 1.0
+
+Precision of my classification for Iris-virginica 1.0
+
+Average Precision = 1.00
+
+Recall of my classification for Iris-setosa 1.0
+
+Recall of my classification for Iris-versicolor 1.0
+
+Recall of my classification for Iris-virginica 1.0
+
+Average Recall = 1.0
+
+
+
+The precision and recall values of the tool-based ANN:
+
+Precision of the classification Iris-setosa 1.00
+
+Precision of the classification Iris-versicolor 0.77
+
+Precision of the classification Iris-virginica 1.0
+
+Average Precision = 0.92
+
+Recall of my classification for Iris-setosa 1.0
+
+Recall of my classification for Iris-versicolor 1.0
+
+Recall of my classification for Iris-virginica 0.77
+
+Average Recall = 0.90
+
+
+

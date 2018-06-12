@@ -1,0 +1,86 @@
+  Predicted   :: Actual 
+
+0 Iris-setosa :: Iris-setosa
+
+1 Iris-setosa :: Iris-setosa
+
+2 Iris-setosa :: Iris-setosa
+
+3 Iris-setosa :: Iris-setosa
+
+4 Iris-setosa :: Iris-setosa
+
+5 Iris-setosa :: Iris-setosa
+
+6 Iris-setosa :: Iris-setosa
+
+7 Iris-setosa :: Iris-setosa
+
+8 Iris-setosa :: Iris-setosa
+
+9 Iris-setosa :: Iris-setosa
+
+10 Iris-versicolor :: Iris-versicolor
+
+11 Iris-versicolor :: Iris-versicolor
+
+12 Iris-versicolor :: Iris-versicolor
+
+13 Iris-versicolor :: Iris-versicolor
+
+14 Iris-versicolor :: Iris-versicolor
+
+15 Iris-versicolor :: Iris-versicolor
+
+16 Iris-virginica :: Iris-versicolor
+
+17 Iris-versicolor :: Iris-versicolor
+
+18 Iris-virginica :: Iris-versicolor
+
+19 Iris-versicolor :: Iris-versicolor
+
+20 Iris-virginica :: Iris-virginica
+
+21 Iris-virginica :: Iris-virginica
+
+22 Iris-virginica :: Iris-virginica
+
+23 Iris-virginica :: Iris-virginica
+
+24 Iris-virginica :: Iris-virginica
+
+25 Iris-virginica :: Iris-virginica
+
+26 Iris-virginica :: Iris-virginica
+
+27 Iris-virginica :: Iris-virginica
+
+28 Iris-virginica :: Iris-virginica
+
+29 Iris-virginica :: Iris-virginica
+
+Initial Weight Vector for both perceptrons : [0.5300602190448882, 0.2595909445707796, 0.5491411933443842, -0.25392612244429347]
+
+Weight Vector for the first perceptron : [0.09006021904488815, -0.1504090554292205, 0.5891411933443841, -0.2139261224442935]
+
+Weight Vector for the second perceptron : [-61.0749397809497, -52.37540905543457, 82.6091411933434, 89.0210738775733]
+
+Sum Squared Error is 2. 
+
+Total number of iterations used to train the first perceptron is 240. Terminating criteria is when an error-free epoch occurs. 
+
+Total number of iterations used to train the second perceptron is 1000. Terminating criteria is when the second perceptron has used all of the training data points 1000 times to train itself.
+
+Precision of my classification for Iris-setosa 1.0
+
+Precision of my classification for Iris-versicolor 0.6666666666666666
+
+Precision of my classification for Iris-virginica 1.0
+
+Recall of my classification for Iris-setosa 1.0
+
+Recall of my classification for Iris-versicolor 0.8
+
+Recall of my classification for Iris-virginica 1.0
+
